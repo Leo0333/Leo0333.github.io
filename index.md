@@ -9,7 +9,7 @@ Before coming to NTU I studied math at the [University of Washington](http://mat
 
 I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
 I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
+$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$. Note: <!-- ... -->
 
 
 ## Research Interests
